@@ -11,7 +11,7 @@ your_email@example.com
 your_password
 ----
 ### _Docker'ı çalıştırmak_
- 
+dokcer-compose build
 dokcer-compose up
 docker-compose stop
 docker ps -a (kontrol)
